@@ -12,7 +12,7 @@ The following are questions accompanied with their answers found on the internet
 
 ---
 
-## Q1 : 
+## Q1 : Are there any problems when using X for solving ?
 
 **Difficulty:** `Junior`
 
